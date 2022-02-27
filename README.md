@@ -1,2 +1,2 @@
 # arabic-wordcount
-Using Arabic WordCount in Python
+Using Arabic WordCount on a Dataset in Python
